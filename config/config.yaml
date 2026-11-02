@@ -1,0 +1,54 @@
+system:
+  project_name: "Policy & Regulatory Feedback Intelligence System"
+  problem_statement: "SIH25035 (Ministry of Corporate Affairs)"
+  random_seed: 42
+  device: "cpu"  # Set to "cuda" if GPU is available
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  draft_sections_file: "data/draft_sections/mca_draft_sections.json"
+  db_path: "data/consultation.db"
+  eval_dir: "eval"
+  reports_dir: "reports"
+  powerbi_dir: "powerbi_export"
+
+section_linking:
+  regex_enabled: true
+  title_match_enabled: true
+  fallback_tfidf_threshold: 0.12
+  top_k: 3
+  unlinked_label: "General / Unlinked"
+
+stance_classification:
+  labels: ["oppose", "neutral", "support"]
+  label2id:
+    oppose: 0
+    neutral: 1
+    support: 2
+  id2label:
+    0: "oppose"
+    1: "neutral"
+    2: "support"
+  vader:
+    pos_threshold: 0.10
+    neg_threshold: -0.10
+  distilbert:
+    pretrained_model: "distilbert-base-uncased"
+    max_length: 128
+    batch_size: 16
+    epochs: 2
+    learning_rate: 2.0e-5
+    eval_subset_size: 600
+
+confidence:
+  low_confidence_threshold: 0.55  # Predictions with probability < threshold go to review queue
+
+deduplication:
+  tfidf_cosine_threshold: 0.82
+  min_text_len: 25
+  ngram_range: [1, 2]
+
+summarization:
+  max_sentences_per_summary: 3
+  representative_comments_per_stance: 3

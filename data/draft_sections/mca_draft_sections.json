@@ -1,0 +1,98 @@
+[
+  {
+    "section_id": "SEC-03",
+    "section_number": "3",
+    "section_title": "Criteria for Designation of Systemically Significant Digital Enterprises (SSDEs)",
+    "chapter": "Chapter II - Regulation of Core Digital Services",
+    "section_text": "The Competition Commission of India shall designate an enterprise as a Systemically Significant Digital Enterprise (SSDE) in respect of a Core Digital Service if it meets the quantitative thresholds prescribed under Section 4 or meets the qualitative criteria prescribed under Section 5. An enterprise so designated shall comply with all ex-ante regulatory obligations set out in this Chapter.",
+    "key_topics": ["designation", "ssde", "systemically significant", "core digital service", "competition commission", "ex-ante"]
+  },
+  {
+    "section_id": "SEC-04",
+    "section_number": "4",
+    "section_title": "Quantitative Thresholds for SSDE Designation",
+    "chapter": "Chapter II - Regulation of Core Digital Services",
+    "section_text": "An enterprise shall be designated as an SSDE if in India: (a) its turnover exceeds INR 4,000 crore, or global turnover exceeds USD 30 billion; or (b) its gross merchandise value exceeds INR 16,000 crore; and (c) its core digital service has not less than 1 crore end-users or 10,000 business users in India over the preceding three financial years.",
+    "key_topics": ["threshold", "turnover", "4000 crore", "30 billion", "gross merchandise value", "gmv", "end users", "business users", "quantitative thresholds"]
+  },
+  {
+    "section_id": "SEC-05",
+    "section_number": "5",
+    "section_title": "Qualitative Factors for Determining Systemic Significance",
+    "chapter": "Chapter II - Regulation of Core Digital Services",
+    "section_text": "Even if an enterprise does not satisfy the quantitative criteria in Section 4, the Commission may designate it as an SSDE having regard to: (a) market volume and network effects; (b) financial strength and access to capital; (c) vertical integration; (d) user lock-in and switching costs; and (e) ability to influence market dynamics across allied services.",
+    "key_topics": ["qualitative criteria", "network effects", "switching costs", "user lock-in", "vertical integration", "market power"]
+  },
+  {
+    "section_id": "SEC-06",
+    "section_number": "6",
+    "section_title": "Obligations of Associate Enterprises and Corporate Groups",
+    "chapter": "Chapter II - Regulation of Core Digital Services",
+    "section_text": "Where an enterprise is designated as an SSDE, the Commission may extend obligations to its associate enterprises, subsidiaries, and group companies if they operate interrelated digital services or share user data across distinct operational divisions.",
+    "key_topics": ["associate enterprises", "subsidiaries", "group companies", "corporate group", "holding company", "cross-entity"]
+  },
+  {
+    "section_id": "SEC-07",
+    "section_number": "7",
+    "section_title": "General Obligations and Code of Fair Conduct",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "Every SSDE shall conduct its business in a fair, non-discriminatory, and transparent manner with business users and end users. No SSDE shall engage in unfair contract terms, arbitrary termination of merchant accounts, or discriminatory algorithmic ranking.",
+    "key_topics": ["fair conduct", "non-discriminatory", "transparency", "algorithmic ranking", "merchant termination", "fair dealing"]
+  },
+  {
+    "section_id": "SEC-10",
+    "section_number": "10",
+    "section_title": "Prohibition on Anti-Steering Restrictions",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "An SSDE shall not prevent, restrict, or discourage business users from communicating with, promoting offers to, or directing end users to purchase products or services outside the SSDE's core digital service, nor shall it impose discriminatory charges for external transactions.",
+    "key_topics": ["anti-steering", "external links", "out-of-app purchases", "commission fee", "app store rules", "steering"]
+  },
+  {
+    "section_id": "SEC-11",
+    "section_number": "11",
+    "section_title": "Prohibition on Self-Preferencing and Search Bias",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "An SSDE shall not, directly or indirectly, favor its own products, services, private labels, or related entity offerings over those of competing third-party business users on its platform in search rankings, placement, or recommendation algorithms.",
+    "key_topics": ["self-preferencing", "search bias", "private labels", "favouring", "ranking manipulation", "marketplace neutrality"]
+  },
+  {
+    "section_id": "SEC-12",
+    "section_number": "12",
+    "section_title": "Restrictions on Data Cross-Use, Profiling and Merchant Data Exploitation",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "An SSDE shall not use non-public commercial data generated by business users on its platform to compete against them. Furthermore, an SSDE shall not cross-use, combine, or profile personal data of end users collected from different services without explicit, freely given consent.",
+    "key_topics": ["data cross-use", "non-public data", "merchant data", "profiling", "user consent", "data privacy", "combining data"]
+  },
+  {
+    "section_id": "SEC-13",
+    "section_number": "13",
+    "section_title": "Interoperability Requirements for Core Digital Platforms",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "An SSDE shall ensure technical interoperability of complementary hardware, software, or operating system features with third-party providers on fair and equivalent conditions, without degrading system stability or security unnecessarily.",
+    "key_topics": ["interoperability", "open standards", "apis", "third-party compatibility", "ecosystem lock-in", "technical access"]
+  },
+  {
+    "section_id": "SEC-14",
+    "section_number": "14",
+    "section_title": "Allowing Third-Party Application Stores and Direct Sideloading",
+    "chapter": "Chapter III - Ex-Ante Obligations",
+    "section_text": "An SSDE operating an operating system or application marketplace shall allow end users to install and effectively use third-party applications and alternative app stores, and shall not restrict users from selecting alternative default payment or web browsing services.",
+    "key_topics": ["sideloading", "alternative app stores", "default apps", "in-app payments", "third party installations", "app distribution"]
+  },
+  {
+    "section_id": "SEC-17",
+    "section_number": "17",
+    "section_title": "Dedicated Dispute Redressal and Compliance Officer",
+    "chapter": "Chapter IV - Compliance and Redressal",
+    "section_text": "Every SSDE shall establish an independent, transparent grievance redressal mechanism within India, headed by a designated Chief Compliance Officer, and shall resolve business user grievances within fifteen days.",
+    "key_topics": ["grievance redressal", "dispute resolution", "compliance officer", "15 days", "redressal mechanism", "nodal officer"]
+  },
+  {
+    "section_id": "SEC-21",
+    "section_number": "21",
+    "section_title": "Penalties for Contravention of Ex-Ante Obligations",
+    "chapter": "Chapter V - Penalties and Remedies",
+    "section_text": "If the Commission finds that an SSDE has contravened any obligation under this Act, it may impose a monetary penalty not exceeding ten percent of the global turnover of the enterprise for each contravention, in addition to ordering structural behavioral remedies or divestment.",
+    "key_topics": ["penalties", "10 percent", "global turnover", "contravention", "divestment", "remedies", "fine", "sanctions"]
+  }
+]

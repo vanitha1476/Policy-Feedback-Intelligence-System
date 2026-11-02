@@ -1,0 +1,4 @@
+campaign_id,campaign_name,target_section_id,canonical_comment_id,total_submissions,stance
+CAMP-BIGTECH-SEC04,Big Tech Lobby Anti-Threshold Campaign,SEC-04,MCA-2024-00009,350,oppose
+CAMP-MSME-SEC11,MSME Retail Coalition Pro-Fairness Campaign,SEC-11,MCA-2024-00020,250,support
+CAMP-PRIV-SEC12,Digital Rights Citizen Privacy Petition,SEC-12,MCA-2024-00008,150,support

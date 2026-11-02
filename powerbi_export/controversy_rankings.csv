@@ -1,0 +1,14 @@
+section_id,section_title,total_comments,support_pct,oppose_pct,neutral_pct,controversy_score
+GENERAL,General / Unlinked Discussion,499,41.48,36.07,22.44,2.6241
+SEC-07,General Obligations and Code of Fair Conduct,327,43.43,38.23,18.35,2.3838
+SEC-17,Dedicated Dispute Redressal and Compliance Officer,324,45.37,37.04,17.59,2.3599
+SEC-14,Allowing Third-Party Application Stores and Direct Sideloading,312,43.91,38.78,17.31,2.345
+SEC-05,Qualitative Factors for Determining Systemic Significance,301,42.86,39.53,17.61,2.3383
+SEC-06,Obligations of Associate Enterprises and Corporate Groups,296,45.95,35.81,18.24,2.3305
+SEC-10,Prohibition on Anti-Steering Restrictions,305,45.25,37.7,17.05,2.3264
+SEC-13,Interoperability Requirements for Core Digital Platforms,303,43.56,39.6,16.83,2.325
+SEC-21,Penalties for Contravention of Ex-Ante Obligations,312,50.96,31.41,17.63,2.3017
+SEC-03,Criteria for Designation of Systemically Significant Digital Enterprises (SSDEs),305,48.2,36.39,15.41,2.2803
+SEC-12,"Restrictions on Data Cross-Use, Profiling and Merchant Data Exploitation",473,60.68,25.79,13.53,2.2487
+SEC-04,Quantitative Thresholds for SSDE Designation,647,21.02,70.32,8.66,2.0149
+SEC-11,Prohibition on Self-Preferencing and Search Bias,596,68.62,23.83,7.55,2.0094

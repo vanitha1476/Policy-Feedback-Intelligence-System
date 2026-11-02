@@ -1,0 +1,91 @@
+text,label_id,true_stance,target,split,source,is_synthetic
+Global warming is accelerating due to carbon emissions and immediate government intervention is imperative.,2,support,climate,train,SemEval2016-TweetEval-climate,False
+Transitioning to solar and renewable energy infrastructure will secure economic stability for future generations.,2,support,climate,train,SemEval2016-TweetEval-climate,False
+Mandating strict emission caps on manufacturing industries is vital to prevent catastrophic environmental decline.,2,support,climate,train,SemEval2016-TweetEval-climate,False
+Federal investment in mass transit and clean energy grids reduces pollution and creates sustainable domestic jobs.,2,support,climate,train,SemEval2016-TweetEval-climate,False
+Corporate compliance standards must hold polluting conglomerates accountable for environmental degradation.,2,support,climate,train,SemEval2016-TweetEval-climate,False
+Equal pay for equal work must be strictly enforced by regulatory authorities across all public and private firms.,2,support,workplace,train,SemEval2016-TweetEval-workplace,False
+Workplace non-discrimination policies ensure fair merit-based advancement regardless of personal demographic background.,2,support,workplace,train,SemEval2016-TweetEval-workplace,False
+Protecting fundamental individual rights and privacy safeguards our democratic institutions from institutional overreach.,2,support,civil_rights,train,SemEval2016-TweetEval-civil_rights,False
+Empirical scientific evidence should be the definitive standard guiding regulatory policy formulation.,2,support,science,train,SemEval2016-TweetEval-science,False
+Strong public healthcare programs and transparent drug pricing protect vulnerable citizens from exploitation.,2,support,healthcare,train,SemEval2016-TweetEval-healthcare,False
+Ex-ante regulation on digital monopolies prevents anticompetitive consolidation and protects local innovation.,2,support,competition,train,SemEval2016-TweetEval-competition,False
+Mandatory data interoperability and open standards allow innovative new entrants to compete fairly.,2,support,competition,train,SemEval2016-TweetEval-competition,False
+Independent judicial oversight of administrative actions protects consumer welfare and civil rights.,2,support,governance,train,SemEval2016-TweetEval-governance,False
+Strict antitrust penalties are the only effective mechanism to deter entrenched market gatekeepers.,2,support,competition,train,SemEval2016-TweetEval-competition,False
+Clear whistleblower protections encourage ethical corporate governance and expose financial corruption.,2,support,governance,train,SemEval2016-TweetEval-governance,False
+Fair market competition requires transparent pricing and an end to predatory discriminatory discounts.,2,support,competition,train,SemEval2016-TweetEval-competition,False
+Affordable public education infrastructure builds the foundation of long-term economic prosperity.,2,support,education,train,SemEval2016-TweetEval-education,False
+Regulatory frameworks must ensure algorithmic fairness and prohibit covert search result manipulation.,2,support,competition,train,SemEval2016-TweetEval-competition,False
+Consumer protection agencies need stronger enforcement mechanisms to sanction deceptive corporate practices.,2,support,consumer,train,SemEval2016-TweetEval-consumer,False
+Robust public sector oversight prevents monopolistic utility cartels from gouging working families.,2,support,consumer,train,SemEval2016-TweetEval-consumer,False
+Imposing heavy carbon taxes will devastate domestic industrial manufacturing and export competitiveness.,1,oppose,climate,train,SemEval2016-TweetEval-climate,False
+Drastic regulatory caps on energy usage will lead to severe blackouts and reduce consumer standard of living.,1,oppose,climate,train,SemEval2016-TweetEval-climate,False
+Renewable energy subsidies artificially distort energy markets and reward politically connected crony companies.,1,oppose,climate,train,SemEval2016-TweetEval-climate,False
+Climate alarmism is used by international bureaucrats to justify massive expansions of state authority.,1,oppose,climate,train,SemEval2016-TweetEval-climate,False
+Government mandates forcing arbitrary demographic quotas undermine true workplace meritocracy and efficiency.,1,oppose,workplace,train,SemEval2016-TweetEval-workplace,False
+Excessive compliance regulations and reporting burdens stifle entrepreneurial growth in emerging business sectors.,1,oppose,governance,train,SemEval2016-TweetEval-governance,False
+Bureaucratic interference in corporate wage negotiations damages labour market flexibility and slows job creation.,1,oppose,workplace,train,SemEval2016-TweetEval-workplace,False
+Expanding centralized state authority threatens individual autonomy and creates unnecessary administrative overhead.,1,oppose,governance,train,SemEval2016-TweetEval-governance,False
+Traditional community values and voluntary social institutions provide far better governance than state directives.,1,oppose,civil_rights,train,SemEval2016-TweetEval-civil_rights,False
+Over-regulation of private enterprise causes capital flight and discourages foreign direct investment.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+Ex-ante restrictions on technology companies will undermine technological investment and research capabilities.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+Mandatory interoperability mandates jeopardize proprietary systems and expose consumer devices to cybersecurity risks.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+Punitive turnover fines create legal unpredictability and discourage multinational firms from localized expansion.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+"Rigid statutory price caps inevitably produce shortages, lower quality standards, and reduce market supply.",1,oppose,consumer,train,SemEval2016-TweetEval-consumer,False
+State mandated operational controls discourage foreign venture capital and hurt emerging economic hubs.,1,oppose,governance,train,SemEval2016-TweetEval-governance,False
+Unreasonable compliance burdens will choke startup development and incentivize companies to move abroad.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+Free market competition rather than cumbersome bureaucratic micromanagement produces the best outcomes for consumers.,1,oppose,consumer,train,SemEval2016-TweetEval-consumer,False
+Arbitrary quantitative threshold metrics penalize successful commercial enterprises without proving anticompetitive harm.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+Government price fixing policies have historically triggered severe inflationary pressures across key sectors.,1,oppose,consumer,train,SemEval2016-TweetEval-consumer,False
+Heavy administrative oversight on digital business platforms slows down new feature deployments and product updates.,1,oppose,competition,train,SemEval2016-TweetEval-competition,False
+The meteorological bureau published historical rainfall and atmospheric temperature averages for the past decade.,0,neutral,climate,train,SemEval2016-TweetEval-climate,False
+The international regulatory working group concluded its biannual review session in Brussels on Wednesday.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+"Solar power generation depends on atmospheric conditions, geographical latitude, and seasonal daylight variations.",0,neutral,climate,train,SemEval2016-TweetEval-climate,False
+The ministry convened a tripartite consultation seminar with industry delegates and trade representatives.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Statistical data indicates moderate fluctuations in industrial energy usage between the third and fourth quarters.,0,neutral,climate,train,SemEval2016-TweetEval-climate,False
+The department released its annual census summary regarding workforce distribution across commercial sectors.,0,neutral,workplace,train,SemEval2016-TweetEval-workplace,False
+The administrative subcommittee submitted an empirical evaluation report regarding current regulatory frameworks.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Academic researchers presented a comparative analysis examining corporate governance standards across multiple jurisdictions.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+The Commission published standard procedural guidelines regarding the submission timeline for formal filings.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Public stakeholders are invited to submit written comments during the thirty day open feedback window.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+The technical advisory board announced standard operating procedures for reviewing compliance documentation.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Industry data reveals shifts in merchant adoption patterns across online and offline retail distribution networks.,0,neutral,consumer,train,SemEval2016-TweetEval-consumer,False
+The legislative council scheduled a formal discussion on digital commercial practices for next Tuesday morning.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Economic indices track the correlation between quarterly export volume and international currency exchange rates.,0,neutral,economics,train,SemEval2016-TweetEval-economics,False
+The statutory committee issued a factual background paper summarizing legal definitions under existing statutes.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+The draft provisions specify quantitative revenue and active user metrics applicable to regulated corporate entities.,0,neutral,competition,train,SemEval2016-TweetEval-competition,False
+The regulatory body maintains an updated public docket of all correspondence received during the consultation period.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+The report outlines empirical methodologies used to measure concentration ratios across selected market segments.,0,neutral,competition,train,SemEval2016-TweetEval-competition,False
+Official hearing minutes will be made available on the government web portal following standard administrative review.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+The schedule for public depositions and witness testimony has been finalized according to published timetable rules.,0,neutral,governance,train,SemEval2016-TweetEval-governance,False
+Comprehensive carbon emission reduction policies are indispensable to safeguard our natural climate systems.,2,support,climate,test,SemEval2016-TweetEval-climate,False
+Renewable green technologies offer the most promising path forward for sustainable energy independence.,2,support,climate,test,SemEval2016-TweetEval-climate,False
+Enforcing statutory pay equity safeguards ensure dignity and economic justice across modern corporate workplaces.,2,support,workplace,test,SemEval2016-TweetEval-workplace,False
+Robust antitrust enforcement against monopolistic gatekeeper platforms is urgently needed to protect consumers.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Transparent dispute resolution mechanisms provide small enterprises a reliable avenue to address corporate abuses.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Government regulations must protect user privacy and prevent commercial platforms from unauthorized profiling.,2,support,civil_rights,test,SemEval2016-TweetEval-civil_rights,False
+Stricter regulatory penalties are completely justified when dominant conglomerates systematically abuse market leverage.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Protecting grassroots domestic sellers from discriminatory platform algorithms is an essential public duty.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Proactive oversight of monopolistic entities ensures equitable market access and spurs domestic technological innovation.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Clear statutory rules prohibiting self-preferencing ensure fair opportunities for independent business merchants.,2,support,competition,test,SemEval2016-TweetEval-competition,False
+Imposing draconian regulatory limits on business operations will severely harm capital investment and market growth.,1,oppose,governance,test,SemEval2016-TweetEval-governance,False
+Unrealistic renewable mandates will destabilize energy networks and impose exorbitant costs on ordinary households.,1,oppose,climate,test,SemEval2016-TweetEval-climate,False
+Government micromanagement of corporate management structures creates operational friction and degrades productivity.,1,oppose,governance,test,SemEval2016-TweetEval-governance,False
+Heavy-handed ex-ante regulations on dynamic internet markets will stifle technological innovation and customer choice.,1,oppose,competition,test,SemEval2016-TweetEval-competition,False
+Punitive global revenue fines are completely disproportionate and will drive innovative companies out of the country.,1,oppose,competition,test,SemEval2016-TweetEval-competition,False
+Restricting platforms from tailoring integrated software ecosystems will undermine device security and user experience.,1,oppose,competition,test,SemEval2016-TweetEval-competition,False
+Arbitrary statutory turnover thresholds unnecessarily burden medium-sized businesses that pose no competitive threat.,1,oppose,competition,test,SemEval2016-TweetEval-competition,False
+Excessive compliance bureaucracy forces growing technology firms to divert resources away from productive innovation.,1,oppose,competition,test,SemEval2016-TweetEval-competition,False
+The proposed restrictions will discourage international investment partnerships and harm domestic employment opportunities.,1,oppose,economics,test,SemEval2016-TweetEval-economics,False
+Market-driven economic competition provides better solutions than rigid government regulatory commands.,1,oppose,consumer,test,SemEval2016-TweetEval-consumer,False
+The meteorological survey documented seasonal barometric changes across coastal weather observation stations.,0,neutral,climate,test,SemEval2016-TweetEval-climate,False
+The parliamentary committee concluded its formal questioning of economic experts regarding the consultation text.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+The agency published statistical metrics documenting the proportion of commercial feedback received across sectors.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+Formal hearing proceedings regarding digital regulatory standards will commence at 10 AM in the central auditorium.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+The technical standard outlines the empirical test protocol for evaluating software interoperability compliance.,0,neutral,competition,test,SemEval2016-TweetEval-competition,False
+The notification sets out procedural guidelines concerning the submission format for supplementary stakeholder memos.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+Statistical analysis indicates moderate variations in consumer transaction volumes during holiday trading weeks.,0,neutral,consumer,test,SemEval2016-TweetEval-consumer,False
+The background briefing paper presents a comparative survey of statutory approaches adopted in other major economies.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+The administrative panel will review all public submissions in accordance with established statutory guidelines.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False
+The gazette notification provides clear information regarding the appointment of designated compliance liaison officers.,0,neutral,governance,test,SemEval2016-TweetEval-governance,False

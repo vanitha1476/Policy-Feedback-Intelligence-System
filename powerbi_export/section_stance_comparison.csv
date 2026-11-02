@@ -1,0 +1,14 @@
+section_id,section_title_raw,total_comments,support_count_raw,oppose_count_raw,neutral_count_raw,support_pct_raw,oppose_pct_raw,neutral_pct_raw,section_title_adj,adjusted_comments,support_count_adj,oppose_count_adj,neutral_count_adj,support_pct_adj,oppose_pct_adj,neutral_pct_adj,volume_drop,oppose_delta,support_delta
+GENERAL,General / Unlinked Discussion,499,207,180,112,41.48,36.07,22.44,General / Unlinked Discussion,499,207,180,112,41.48,36.07,22.44,0,0.0,0.0
+SEC-03,Criteria for Designation of Systemically Significant Digital Enterprises (SSDEs),305,147,111,47,48.2,36.39,15.41,Criteria for Designation of Systemically Significant Digital Enterprises (SSDEs),305,147,111,47,48.2,36.39,15.41,0,0.0,0.0
+SEC-04,Quantitative Thresholds for SSDE Designation,647,136,455,56,21.02,70.32,8.66,Quantitative Thresholds for SSDE Designation,298,136,106,56,45.64,35.57,18.79,349,34.74999999999999,-24.62
+SEC-05,Qualitative Factors for Determining Systemic Significance,301,129,119,53,42.86,39.53,17.61,Qualitative Factors for Determining Systemic Significance,301,129,119,53,42.86,39.53,17.61,0,0.0,0.0
+SEC-06,Obligations of Associate Enterprises and Corporate Groups,296,136,106,54,45.95,35.81,18.24,Obligations of Associate Enterprises and Corporate Groups,296,136,106,54,45.95,35.81,18.24,0,0.0,0.0
+SEC-07,General Obligations and Code of Fair Conduct,327,142,125,60,43.43,38.23,18.35,General Obligations and Code of Fair Conduct,327,142,125,60,43.43,38.23,18.35,0,0.0,0.0
+SEC-10,Prohibition on Anti-Steering Restrictions,305,138,115,52,45.25,37.7,17.05,Prohibition on Anti-Steering Restrictions,305,138,115,52,45.25,37.7,17.05,0,0.0,0.0
+SEC-11,Prohibition on Self-Preferencing and Search Bias,596,409,142,45,68.62,23.83,7.55,Prohibition on Self-Preferencing and Search Bias,347,160,142,45,46.11,40.92,12.97,249,-17.090000000000003,22.510000000000005
+SEC-12,"Restrictions on Data Cross-Use, Profiling and Merchant Data Exploitation",473,287,122,64,60.68,25.79,13.53,"Restrictions on Data Cross-Use, Profiling and Merchant Data Exploitation",324,138,122,64,42.59,37.65,19.75,149,-11.86,18.089999999999996
+SEC-13,Interoperability Requirements for Core Digital Platforms,303,132,120,51,43.56,39.6,16.83,Interoperability Requirements for Core Digital Platforms,303,132,120,51,43.56,39.6,16.83,0,0.0,0.0
+SEC-14,Allowing Third-Party Application Stores and Direct Sideloading,312,137,121,54,43.91,38.78,17.31,Allowing Third-Party Application Stores and Direct Sideloading,312,137,121,54,43.91,38.78,17.31,0,0.0,0.0
+SEC-17,Dedicated Dispute Redressal and Compliance Officer,324,147,120,57,45.37,37.04,17.59,Dedicated Dispute Redressal and Compliance Officer,324,147,120,57,45.37,37.04,17.59,0,0.0,0.0
+SEC-21,Penalties for Contravention of Ex-Ante Obligations,312,159,98,55,50.96,31.41,17.63,Penalties for Contravention of Ex-Ante Obligations,312,159,98,55,50.96,31.41,17.63,0,0.0,0.0
